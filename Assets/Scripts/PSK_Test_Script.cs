@@ -8,6 +8,7 @@ public class PSK_Test_Script : MonoBehaviour
     void Start()
     {
          Debug.Log("Hello Unity! By PSK");
+         Debug.Log("Apple");
         
     }
 
